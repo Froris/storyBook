@@ -1,0 +1,12 @@
+.article {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.article__text {
+  font-size: 18px;
+}

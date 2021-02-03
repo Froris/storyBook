@@ -1,0 +1,10 @@
+.main {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  max-width: 1200px;
+  height: 80vh;
+  padding: 0;
+  display: flex;
+  border: 2px solid black;
+}
