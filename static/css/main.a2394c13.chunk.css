@@ -1,0 +1,80 @@
+.article {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.article__text {
+  font-size: 18px;
+}
+
+.btn-article {
+  width: 200px;
+  margin: 15px auto 5px;
+}
+
+.error-message {
+  display: block;
+  color: tomato;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.error-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.error-container button {
+  margin: 10px;
+  width: 100px;
+}
+
+.list-container {
+  width: 600px;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+}
+
+.main {
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  max-width: 1200px;
+  height: 80vh;
+  padding: 0;
+  display: flex;
+  border: 2px solid black;
+}
+
+.clicker {
+  margin: 20px;
+  width: 300px;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.clicker span {
+  font-size: 20px;
+  margin-right: 50px;
+}
+
+.clicker button {
+  width: 50px;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+
+/*# sourceMappingURL=main.a2394c13.chunk.css.map*/
