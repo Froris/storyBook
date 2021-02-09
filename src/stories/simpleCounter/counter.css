@@ -1,0 +1,17 @@
+.clicker {
+  margin: 20px;
+  width: 300px;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.clicker span {
+  font-size: 20px;
+  margin-right: 50px;
+}
+
+.clicker button {
+  width: 50px;
+  font-size: 20px;
+  margin-right: 20px;
+}

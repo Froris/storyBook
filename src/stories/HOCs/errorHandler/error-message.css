@@ -1,0 +1,16 @@
+.error-message {
+  display: block;
+  color: tomato;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.error-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.error-container button {
+  margin: 10px;
+  width: 100px;
+}
